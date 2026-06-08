@@ -7,11 +7,11 @@
 - Save text files to the desired location and then exit using exit icon.
 - User-friendly GUI built with Tkinter.
 
-##Technologies Used
+## Technologies Used
 - Python
 - Tkinter
 - MessageBox Module
 - FileDialog Module
 
-##Author
+## Author
  Arpan Prajapati
